@@ -41,7 +41,7 @@ const Restaurant = () => {
             <div className="order-list">
                 <OrderList orders={orders}></OrderList>
             </div>
-        </div>
+        </div> 
 
     );
 };
